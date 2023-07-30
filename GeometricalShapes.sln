@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricalShapes", "GeometricalShapes\GeometricalShapes.csproj", "{757F23BC-8556-4891-BCA5-CB44F046EA46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757F23BC-8556-4891-BCA5-CB44F046EA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757F23BC-8556-4891-BCA5-CB44F046EA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757F23BC-8556-4891-BCA5-CB44F046EA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757F23BC-8556-4891-BCA5-CB44F046EA46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BA75DAB-86EA-409F-96EB-D3AA54D8567A}
+	EndGlobalSection
+EndGlobal
