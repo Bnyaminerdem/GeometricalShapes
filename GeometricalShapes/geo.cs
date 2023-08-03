@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GeometricalShapes
 {
-    internal class geo
+    internal class Geo
     {
         static void Main()
         {
